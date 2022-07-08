@@ -4,7 +4,7 @@
 - 🖥 I'm a Computer Science Student.
 - 🎓 I'm a penultimate student at Durham University.
 - 🌎 I'm experienced in Web Development .
-- 🧠 I'm experienced in Python and the MERN stack
+- 🧠 I'm experienced in Python, the MERN stack, as well as VR development
 - 📚 I'm currently Learning C#, C and Unity
 
 
